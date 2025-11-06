@@ -29,7 +29,7 @@ flex-row items-start gap-5`}>
   <a href="#works" className="bg-gray-200 text-gray-800 px-4 py-2 sm:px-6 sm:py-3 rounded-lg hover:bg-gray-300 transition">
     View My Work
   </a>
-  <a href="/Poloju_Pavani(1).pdf" // make sure your CV file is in public folder
+  <a href="/Poloju_Pavani (1).pdf" // make sure your CV file is in public folder
 download
       className="bg-green-600 text-white px-4 py-2 sm:px-6 sm:py-3 rounded-lg hover:bg-green-700 transition"
   >
